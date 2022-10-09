@@ -12,3 +12,4 @@
 - [Teddy Firman](https://github.com/TeddyFirman)
 - [Tejaswi Kumar](https://github.com/Tejaswi-Kumar)
 - [Vishal kannan](https://github.com/Vis03al)
+- [Mihir Rajesh Panchal](https://github.com/MihirRajeshPanchal)
