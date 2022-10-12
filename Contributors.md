@@ -14,3 +14,4 @@
 - [Vishal kannan](https://github.com/Vis03al)
 - [Mihir Rajesh Panchal](https://github.com/MihirRajeshPanchal)
 - [Anuda Esarith](https://github.com/ANEASER)
+- [Ishan M.](https://github.com/legitishan)
